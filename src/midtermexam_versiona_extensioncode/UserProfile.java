@@ -15,7 +15,8 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    
+    //This is a added message for the midterm
+    //This is too a added message
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
